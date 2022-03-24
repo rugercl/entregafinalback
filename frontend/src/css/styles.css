@@ -1,0 +1,84 @@
+.previewImagen {
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid white;
+  outline: none;
+}
+
+.imagenPrev {
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+  border: 2px black solid;
+}
+
+.borderInputImg {
+  outline: none;
+}
+.brand {
+  display: block;
+  margin: 45px;
+  float: ight;
+  color: white;
+  font-size: 20px;
+}
+
+.App-logo {
+  margin-left: 5px;
+}
+
+.fotoimg img {
+  height: 50px;
+  width: 50px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+  border: 2px white solid;
+}
+
+.imgBodyHome {
+  width: 80%;
+  -moz-transform: rotate(+10deg);
+  -o-transform: rotate(+10deg);
+  -webkit-transform: rotate(+10deg);
+  transform: rotate(+10deg);
+  background-color: transparent;
+}
+.navbar-brand {
+  overflow-y: hidden;
+}
+
+.footerNav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: rgb(99, 99, 99);
+  bottom: 0;
+  width: 100%;
+  position: relative;
+}
+.footerLink {
+  padding: 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  list-style: none;
+}
+.footerA {
+  color: white;
+}
+h5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+}
+
+.imgLink {
+  padding: 0.3rem;
+  height: 50px;
+  width: 50px;
+}
